@@ -1,2 +1,3 @@
 # Voice-activity-detector
-a VAD system using NVIDIA NeMo toolkits
+Viettel Digital Talent miniproject
+A VAD system using NVIDIA NeMo toolkits
